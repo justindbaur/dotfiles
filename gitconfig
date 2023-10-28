@@ -1,0 +1,11 @@
+[user]
+	email = 19896123+justindbaur@users.noreply.github.com
+	name = Justin Baur
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
+[alias]
+	undo = reset --soft HEAD~1
+	yoink = reset --soft HEAD~1
+	yeet = push --force-with-lease
